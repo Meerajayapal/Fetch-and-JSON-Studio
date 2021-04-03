@@ -2,6 +2,7 @@
     border-radius: 50%;
     height: 100px;
     float:right;
+    align-items: center;
 }
 
 .astronaut {
@@ -13,4 +14,5 @@
     padding: 5px;
     margin-bottom: 20px;
     border-radius: 6px;
+    
 }
